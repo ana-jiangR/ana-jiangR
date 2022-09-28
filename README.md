@@ -20,7 +20,7 @@
    - Animation: **Evangelion(EVA)**
        
 ## 📫 How to REACH me: 
-   - plz contact me by **ana.jiangvz@gmail.com** if u have any problems! 
+   - PLZ contact me by **ana.jiangvz@gmail.com** if u have any problems! 
    - I'm willing to communicate with you!
 
 <!---
