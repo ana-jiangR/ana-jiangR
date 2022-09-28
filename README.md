@@ -5,7 +5,7 @@
    - A **Security** & ***CRYPTOGRAPHY*** Enthusiast
    
 ## 👀 Interested in:
-   - **Coding, hacking, and CS security**! a little bit AI? ... 
+   - **Coding, hacking, and CS security (especially CRYPTOGRAPHY)**! a little bit AI? ... 
    - Also making some **indie GAMES** - especially **RPG**!
 
 ## 💞️ LOVE: 
