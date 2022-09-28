@@ -1,10 +1,10 @@
 # 👋 Hiii! I’m **Ana Jiang**, @ana-jiangR
 
-## ❓ Who I AM
+## ❓ Who I AM:
    - A 10th grader from **CHINA**
-   - A **Security** Enthusiast
+   - A **Security** & ***CRYPTOGRAPHY*** Enthusiast
    
-## 👀 Interested in 
+## 👀 Interested in:
    - **Coding, hacking, and CS security**! a little bit AI? ... 
    - Also making some **indie GAMES** - especially **RPG**!
 
