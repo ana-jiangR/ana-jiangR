@@ -11,9 +11,13 @@
 ## 💞️ LOVE: 
    - **ACG，MUSIC AND RPG GAMES！**
    - Also a little bit **chemistry and economics**(only for interests though!)
-   - Music: ACG music, vocaloid, citypop, J-ROCK
-   - Favourite band: **ヒトリエ(Hitorie)**
-   - Favourite animation: **Evangelion(EVA)**
+   
+   ### Music:
+   - ACG music, vocaloid, citypop, J-ROCK
+       
+   ### Favourite:
+   - Band: **ヒトリエ(Hitorie)**
+   - Animation: **Evangelion(EVA)**
        
 ## 📫 How to REACH me: 
    - plz contact me by **ana.jiangvz@gmail.com** if u have any problems! 
