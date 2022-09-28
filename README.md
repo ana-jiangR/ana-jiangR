@@ -6,7 +6,7 @@
    
 ## 👀 Interested in 
    - **Coding, hacking, and CS security**! a little bit AI? ... 
-   - Also doing some **indie GAMES** - especially **RPG**!
+   - Also making some **indie GAMES** - especially **RPG**!
 
 ## 💞️ LOVE: 
    - **ACG，MUSIC AND RPG GAMES！**
