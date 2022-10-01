@@ -1,7 +1,7 @@
 # 👋 Hiii! I’m **Ana Jiang**, @ana-jiangR
 
 ## ❓ Who I AM:
-   - A 10th grader from **CHINA**
+   - A 10th grader from **SHANGHAI CHINA**
    - A **Security** & ***CRYPTOGRAPHY*** Enthusiast
    
 ## 👀 Interested in:
