@@ -13,15 +13,15 @@
    - Also a little bit **chemistry and economics**(only for interests though!)
    
    ### Music:
-   - ACG music, vocaloid, citypop, J-ROCK
+   - ACG music, Vocaloid, Citypop, J-ROCK
        
-   ### Favourite:
+   ### Favourite(MOST):
    - Band: **ヒトリエ(Hitorie)**
    - Animation: **Evangelion(EVA)**
        
 ## 📫 How to REACH me: 
-   - PLZ contact me by **ana.jiangvz@gmail.com** if u have any problems! 
-   - I'm willing to communicate with you!
+   - PLZ contact me by **ana.jiangvz@gmail.com** or if u have any problems! 
+   - I would love to communicate with you! :D
 
 <!---
 ana-jiangR/ana-jiangR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile !. 
