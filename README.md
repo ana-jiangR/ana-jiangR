@@ -1,6 +1,6 @@
 # 👋 Hiii! I’m **Ana Jiang**, @ana-jiangR**
 
-a 10th grader from **SHANGHAI(CHINA)
+a 10th grader from SHANGHAI(CHINA)
 ## 👀 Interested in:
    - **Coding, hacking(especially CRYPTOGRAPHY), AI**
    - Also making some **indie GAMES** - especially **RPG**
