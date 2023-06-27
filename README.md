@@ -1,8 +1,9 @@
-# 👋 Hiii! I’m **Ana Jiang**, @ana-jiangR, a 10th grader from **SHANGHAI(CHINA)**
-   
+# 👋 Hiii! I’m **Ana Jiang**, @ana-jiangR**
+
+a 10th grader from **SHANGHAI(CHINA)
 ## 👀 Interested in:
-   - **Coding, hacking(especially CRYPTOGRAPHY)**! a little bit AI? ... 
-   - Also making some **indie GAMES** - especially **RPG**!
+   - **Coding, hacking(especially CRYPTOGRAPHY), AI**
+   - Also making some **indie GAMES** - especially **RPG**
 
 ## 💞️ LOVE: 
    - **ACG，MUSIC AND RPG GAMES！**
@@ -11,7 +12,7 @@
    ### Music:
    - **ACG music**, **Vocaloid**, **J-ROCK/J-POP**（Especially Citypop & Math Rock), a little bit KPOP
        
-   ### Favourite(MOST):
+   ### Favourite:
    - Band: **ヒトリエ(Hitorie)**, トー(Toe), Queen Bee
    - Animation: **Evangelion(EVA)**
        
