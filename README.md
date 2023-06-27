@@ -1,27 +1,22 @@
-# 👋 Hiii! I’m **Ana Jiang**, @ana-jiangR
-
-## ❓ Who I AM:
-   - A 10th grader from **SHANGHAI CHINA**
-   - A **Security** & ***CRYPTOGRAPHY*** Enthusiast
+# 👋 Hiii! I’m **Ana Jiang**, @ana-jiangR, a 10th grader from **SHANGHAI(CHINA)**
    
 ## 👀 Interested in:
-   - **Coding, hacking, and CS security (especially CRYPTOGRAPHY)**! a little bit AI? ... 
+   - **Coding, hacking(especially CRYPTOGRAPHY)**! a little bit AI? ... 
    - Also making some **indie GAMES** - especially **RPG**!
 
 ## 💞️ LOVE: 
    - **ACG，MUSIC AND RPG GAMES！**
-   - Also a little bit **chemistry and economics**(only for interests though!)
+   - a little bit **chemistry**(?
    
    ### Music:
-   - ACG music, Vocaloid, Citypop, J-ROCK
+   - **ACG music**, **Vocaloid**, **J-ROCK/J-POP**（Especially Citypop & Math Rock), a little bit KPOP
        
    ### Favourite(MOST):
-   - Band: **ヒトリエ(Hitorie)**
+   - Band: **ヒトリエ(Hitorie)**, トー(Toe), Queen Bee
    - Animation: **Evangelion(EVA)**
        
 ## 📫 How to REACH me: 
-   - PLZ contact me by **ana.jiangvz@gmail.com** or if u have any problems! 
-   - I would love to communicate with you! :D
+   - PLZ contact me by **ana.jiangvz@gmail.com** if u have any problems ^ ^
 
 <!---
 ana-jiangR/ana-jiangR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile !. 
