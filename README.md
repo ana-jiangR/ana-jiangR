@@ -2,11 +2,12 @@
 
 a 10th grader from SHANGHAI(CHINA)
 ## 👀 Interested in:
-   - **Coding, hacking(especially CRYPTOGRAPHY), AI**
+   - **Coding, hacking(especially CRYPTOGRAPHY), AI, Machine Learning, Data Processing**
    - Also making some **indie GAMES** - especially **RPG**
 
 ## 💞️ LOVE: 
-   - **ACG，MUSIC AND RPG GAMES！**
+   - **ACG & MUSIC！**
+   - Playing **GAMES (Especially Cities: Skylines & Oxygen Not Included)**
    - a little bit **chemistry**(?
    
    ### Music:
